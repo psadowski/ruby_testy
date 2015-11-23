@@ -1,4 +1,4 @@
-## Testowanie aplikacji w Ruby, patryk.sadowski113@gmail.com
+﻿## Testowanie aplikacji w Ruby, patryk.sadowski113@gmail.com
 
 Podręczne linki:
 
@@ -18,5 +18,5 @@ Podręczne linki:
   - [x] [Array](ruby.md#array)
   - [x] [Hash](ruby.md#hash)
   - [x] [Enumerable](ruby.md#enumerable)
-2. [ ] [Coś do przetestowania na początek](/)
+2. [x] [Coś do przetestowania na początek](testy)
 3. [ ] [Program/Biblioteka/Aplikacja WWW](/)
