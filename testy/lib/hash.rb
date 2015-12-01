@@ -9,7 +9,7 @@ def haszowanie(tablica, klu)
 		if tablica[indeks] != 'NIL'
 			indeks = indeks+1
 			if indeks >= 103
-				indeks=0
+				indeks = 0
 			end	
 		else
 			puts indeks

@@ -1,5 +1,4 @@
-
-#module RSA 
+module RSA 
 #Tworzenie kluczy RSA
   def euler(p,q)
     o = (p-1) * (q-1)
@@ -69,4 +68,4 @@
       end
       return wyn;
     end
-#end
+end
