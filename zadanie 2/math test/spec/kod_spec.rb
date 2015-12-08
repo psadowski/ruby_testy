@@ -1,4 +1,4 @@
-require_relative '../spec_helper.rb'
+require_relative 'spec_helper.rb'
 require_relative '../lib/kod.rb'
 describe RSA do 
   class KlasaPom
