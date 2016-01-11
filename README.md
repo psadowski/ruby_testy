@@ -19,4 +19,4 @@ Podręczne linki:
   - [x] [Hash](ruby.md#hash)
   - [x] [Enumerable](ruby.md#enumerable)
 2. [x] [Coś do przetestowania na początek](testy)
-3. [ ] [Program/Biblioteka/Aplikacja WWW](/)
+3. [x] [Kalkulator fitness](https://github.com/suscilowicz/Ruby/tree/master/zad3)
