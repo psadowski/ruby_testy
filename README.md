@@ -18,5 +18,6 @@ Podręczne linki:
   - [x] [Array](ruby.md#array)
   - [x] [Hash](ruby.md#hash)
   - [x] [Enumerable](ruby.md#enumerable)
-2. [x] [Coś do przetestowania na początek](testy)
+2. [x] [Testowanie heapsort i funkcji matematycznych](zadanie 2)
 3. [x] [Kalkulator fitness](https://github.com/suscilowicz/Ruby/tree/master/zad3)
+
